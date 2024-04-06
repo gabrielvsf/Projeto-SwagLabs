@@ -1,0 +1,33 @@
+{
+    "standard_user": {
+        "id": "standard_user",
+        "senha": "secret_sauce"
+    },
+
+    "locked_out_user": {
+        "id": "locked_out_user",
+        "senha": "secret_sauce"
+    },
+
+    "problem_user": {
+        "id": "problem_user",
+        "senha": "secret_sauce"
+    },
+
+    "performance_glitch_user": {
+        "id": "performance_glitch_user",
+        "senha": "secret_sauce"
+    },
+
+    "buying_user": {
+        "nome": "Usuario",
+        "sobrenome": "Teste",
+        "postalcode": "99999999"
+    },
+
+    "wrong_informations": {
+        "id": "wrong_user",
+        "senha": "12345"
+    }
+
+}

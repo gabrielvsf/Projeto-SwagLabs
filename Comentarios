@@ -1,0 +1,5 @@
+Algumas das funcionalidades notei problema mesmo no usuario que não deveria ter os erros, 
+como por exemplo a funcionalidade de checkout onde é possivel fazer checkout sem produtos,
+também notei ser possível preencher o zipcode com letras o que não deveria ser possível.
+Porém por se tratar de problemas que imagino terem sido deixados de lado em nome da simplicidade
+do ambiente a ser testado escolhi por não gerar testes em cima deles e apenas comentar nesse texto.
